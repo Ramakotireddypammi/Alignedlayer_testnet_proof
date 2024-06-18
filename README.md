@@ -39,6 +39,8 @@ curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batche
 
 ### Sending proof 
 
+![Uploading Screenshot 2024-06-18 132950.png…]()
+
 
 ```
 rm -rf ~/aligned_verification_data/ &&
