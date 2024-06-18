@@ -39,7 +39,9 @@ curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batche
 
 ### Sending proof 
 
-![Uploading Screenshot 2024-06-18 132950.png…]()
+
+![Screenshot 2024-06-18 132950](https://github.com/Ramakotireddypammi/Alignedlayer_testnet_proof/assets/136354890/e86d3e62-1971-4091-bfd3-16d686d3553d)
+
 
 
 ```
@@ -54,20 +56,22 @@ aligned submit \
 
 Use the explorer link in CMD to check if verified and you'll also see below image. 
 
+<img width="806" alt="image" src="https://github.com/Ramakotireddypammi/Alignedlayer_testnet_proof/assets/136354890/825b635e-4ed3-423d-b82a-d3eebdc02e3a">
 
 
+<img width="944" alt="image" src="https://github.com/Ramakotireddypammi/Alignedlayer_testnet_proof/assets/136354890/a0684e48-d350-4c9d-b94d-8d40a6e48eb2">
 
 -------------
 ----------------------
 ### Tweet exactly as screenshot and Submit Proof in Dscord 
 
-![image](https://github.com/mztacat/Alignedlayer-Testnet-Proof-/assets/31314340/91eb3840-5a65-4bf5-b617-b2b4b3c56e72)
+<img width="466" alt="image" src="https://github.com/Ramakotireddypammi/Alignedlayer_testnet_proof/assets/136354890/e5b0f4dd-caf7-4614-b096-59409b4e4b8b">
 
 
 
 --------------------------
 ### Submit in Discord 
-![image](https://github.com/mztacat/Alignedlayer-Testnet-Proof-/assets/31314340/222ac207-1ad8-49e1-b079-b384c7e7a8ae)
+<img width="854" alt="image" src="https://github.com/Ramakotireddypammi/Alignedlayer_testnet_proof/assets/136354890/b170de67-ed31-45b1-a98c-e36ef6f1906f">
 
 
 # JOIN DISCORD FROM PROFILE 
